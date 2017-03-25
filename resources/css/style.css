@@ -1,15 +1,35 @@
-h1{
+body{
+  background-color: black;
+}
+.head{
   font-family: Verdana;
   font-weight: normal;
   color: white;
   text-align: center;
+  font-size: 50px;
 }
 
-h2{
+.download{
 font-size: 16px;
 color:Aquamarine;
-text-align: center;
+
 }
 p{
   text-align: center;
+}
+.copyright{
+  text-align: right;
+  color: gray;
+  font-size: 21px
+}
+.subheading{
+  font-size: 42px;
+  font-family: Verdana;
+  font-weight: 300;
+  color: white;
+}
+.gray{
+color: gray;
+font-size: 21px;
+font-family: Verdana;
 }
